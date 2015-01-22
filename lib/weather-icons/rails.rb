@@ -20,7 +20,7 @@ module WeatherIcons
       end
 
       def fonts_path
-        File.join(assets_path, 'fonts')
+        File.join(assets_path, 'font')
       end
 
       def assets_path
